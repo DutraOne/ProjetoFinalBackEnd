@@ -12,7 +12,8 @@
 ---
 
 ## **Sobre o Projeto**  
-O *BookStore* é um projeto backend voltado para o gerenciamento de uma livraria virtual, oferecendo uma API robusta e eficiente. Com foco em escalabilidade e organização, ele foi desenvolvido para atender às demandas modernas do setor de livrarias.  
+O *BookStore* é um projeto que foi criado para a discipçina de BackEnd e é voltado para o gerenciamento de uma livraria virtual, oferecendo uma API robusta e eficiente. 
+O foco aqui é a escalabilidade e organização, ele foi desenvolvido para atender às demandas modernas, mas ainda pode melhorar.  
 
 Usando tecnologias como **Node.js**, **TypeScript** e **PostgreSQL**, o *BookStore* combina desempenho e confiabilidade, ideal para sistemas que exigem alta disponibilidade.  
 
@@ -110,6 +111,6 @@ Alternativamente, use os comandos `curl` no terminal:
 
 ## **Créditos**  
 
-Feito por:
+O projeto em questão foi feito por:
     - Lucas Dutra
     - RA: 62593
