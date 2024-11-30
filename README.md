@@ -112,5 +112,5 @@ Alternativamente, use os comandos `curl` no terminal:
 ## **Créditos**  
 
 O projeto em questão foi feito por:
-    - Lucas Dutra
+    - Lucas Dutra F. da Costa
     - RA: 62593
