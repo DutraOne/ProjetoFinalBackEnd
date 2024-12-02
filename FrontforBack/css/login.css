@@ -81,8 +81,8 @@ main{
     transition: 0.6s;
 }
 #loginForm button{
-    height: 50px;
-    width: 100px;
+    height: 10%;
+    width: 30%;
     background-color: #1005ac;
     border-radius: 20px;
     border-color: #1005ac;

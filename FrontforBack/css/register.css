@@ -82,8 +82,8 @@ main{
     transition: 0.6s;
 }
 #registerForm button{
-    height: 50px;
-    width: 100px;
+    height: 10%;
+    width: 50%;
     background-color: #1005ac;
     border-radius: 20px;
     border-color: #1005ac;

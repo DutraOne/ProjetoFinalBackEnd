@@ -32,7 +32,7 @@ main{
 .container{
     width: 500px;
     height: 500px;
-    background-color: #e2e2e2;
+    background-color: white;
     border-radius: 40px;
     border-style: solid;
     border-width: 2px;
@@ -70,16 +70,16 @@ main{
     border-radius: 20px;
 }
 #author{
-    width: 50%;
+    width: 70%;
     height: 30px;
     border-radius: 20px;
-    margin-right: 100px;
+    margin-right: 1px;
 }
 #price{
-    width: 20%;
+    width: 40%;
     height: 30px;
     border-radius: 20px;
-    margin-right: 250px;
+    margin-right: 145px;
 }
 #bookForm input{
     padding-left: 10px;
