@@ -122,4 +122,4 @@ Alternativamente, use os comandos `curl` no terminal:
 — Lucas Dutra F. da Costa<br>
 — RA: 62593<br>
 <br>
-- Destinado a disciplina de BackEnd.
+- Feito para a disciplina de BackEnd.
