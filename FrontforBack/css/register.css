@@ -1,0 +1,105 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+body{
+    width: 100%;
+    min-height: 650px;
+    max-height: 1000px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(../imagens/starwarsbookstore.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+a:link, a:visited{
+    text-decoration: none;
+    color: black;
+}
+
+main{
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;    
+}   
+.container{
+    width: 500px;
+    height: 500px;
+    background-color: white;
+    border-radius: 40px;
+    border-style: solid;
+    border-width: 2px;
+    border: #ffffff;
+    display: flex;
+    flex-direction: column;
+}
+#title{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 60px;
+    background-color: #050049;
+    border-top-left-radius:40px;
+    border-top-right-radius:40px;
+    text-align: center;
+    font-size: 1.8em;
+    color: #ffffff;
+}
+#registerForm{
+    height: 400px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 20px;
+}
+#registerForm h2{
+    height: 20px;
+    width: 80%;
+    font-size: 1.6em;
+    font-weight: bold;
+    text-align: center;
+}
+#registerForm input{
+    height: 30px;
+    width: 80%;
+    border-radius: 5px;
+    border: 1px solid #1005ac;
+    text-align: center;
+    font-size: 1.1em;
+}
+#registerForm input:focus{
+    transform: scale(110%);
+    transition: 0.6s;
+}
+#registerForm button{
+    height: 50px;
+    width: 100px;
+    background-color: #1005ac;
+    border-radius: 20px;
+    border-color: #1005ac;
+    color: #ffffff;
+    font-size: 1.1em;
+    font-weight: bold;
+}
+#registerForm button:hover{
+    cursor: pointer;
+    transform: scale(110%);
+    transition: 0.5s;
+}
+#registerForm a{ 
+    font-size: 1.3em;
+    color: black;
+}
+#registerForm a:hover{
+    transform: scale(105%);
+    transition: 0.5s;}
