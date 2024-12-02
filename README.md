@@ -1,5 +1,6 @@
 ## Índice  
 - [Sobre o Projeto](#sobre-o-projeto)  
+- [Sobre o Front](#sobre-o-front)
 - [Funcionalidades](#funcionalidades)  
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)  
 - [Pré-requisitos](#pré-requisitos)  
@@ -13,7 +14,11 @@
 
 ## **Sobre o Projeto**  
 O *BookStore* é um projeto que foi criado para a discipçina de BackEnd e é voltado para o gerenciamento de uma livraria virtual, oferecendo uma API robusta e eficiente. 
-O foco aqui é a escalabilidade e organização, ele foi desenvolvido para atender às demandas modernas, mas ainda pode melhorar.  
+O foco aqui é a escalabilidade e organização, ele foi desenvolvido para atender às demandas modernas, mas ainda pode melhorar. <br>
+
+## **Sobre o Front**  
+O *FrontforBack* é um projeto que foi criado para a discipçina de BackEnd e é voltado para a identidade visual de uma livraria inspirada em Star Wars, com cores e temática referentes a tal. 
+O projeto é simples, mas ainda pode melhorar.
 
 Usando tecnologias como **Node.js**, **TypeScript** e **PostgreSQL**, o *BookStore* combina desempenho e confiabilidade, ideal para sistemas que exigem alta disponibilidade.  
 
@@ -28,7 +33,10 @@ Usando tecnologias como **Node.js**, **TypeScript** e **PostgreSQL**, o *BookSto
 - **Express.js**  
 - **TypeScript**  
 - **PostgreSQL**  
-- **Jest**   
+- **Jest**
+- **HTML**
+- **JavaScript**
+- **CSS**   
 
 ## **Pré-requisitos**  
 Antes de começar, você precisará das seguintes ferramentas:  
