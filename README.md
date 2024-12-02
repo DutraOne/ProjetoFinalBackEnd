@@ -110,7 +110,8 @@ Alternativamente, use os comandos `curl` no terminal:
    ```  
 
 ## **Créditos**  
-
-O projeto em questão foi feito por:
-    - Lucas Dutra F. da Costa
-    - RA: 62593
+- O projeto em questão foi feito por:<br>
+— Lucas Dutra F. da Costa<br>
+— RA: 62593<br>
+<br>
+- Destinado a disciplina de BackEnd.
